@@ -1,4 +1,4 @@
-// Fibonacci with recursion
+// Fibonacci with recursion - version 1
 
 package recursion;
 
